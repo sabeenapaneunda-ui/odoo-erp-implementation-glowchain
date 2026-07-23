@@ -52,26 +52,6 @@ The business process implemented in this project covers:
 - Enterprise Systems
 - System Documentation
 
-## Repository Structure
-
-odoo-erp-implementation-glowchain
-
-│ README.md
-│
-├── documents
-│   ├── Company Profile.pdf
-│   ├── Business Model Canvas.pdf
-│   ├── Business Flow Diagram.pdf
-│   └── ERP System Implementation Report.pdf
-│
-└── screenshots
-    ├── Human Resources & Fleet.png
-    ├── Purchase Management.png
-    ├── CRM.png
-    ├── Sales Management.png
-    ├── Inventory Management.png
-    └── Accounting Management.png
-
 ## Project Deliverables
 
 This repository contains project documentation, business process designs, and ERP module implementations developed using Odoo 17.
